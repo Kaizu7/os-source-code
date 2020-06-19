@@ -1,6 +1,4 @@
 // OS file system project
-// developed by Abdullah, Vitalli and Sohel aamcse@gmail.com
-// Date: Dec 29, 2019
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
